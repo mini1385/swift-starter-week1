@@ -8,11 +8,10 @@
 
 import Foundation
 
-/* Step 2: 아이스크림 그리기
- makeIcecream(height: 8)
- makeBar(height: 4)
- print("")
-*/
+/* Step 2: 아이스크림 그리기 */
+makeIcecream(height: 8)
+makeBar(height: 4)
+print("")
 
 /* Step 3: 주문에 따른 빼빼로 그리기 */
 makePepero(bodyHeight: 10, body: "***", stickHeight: 4)
